@@ -1,20 +1,20 @@
 # Turn-Based Terminal RPG
 
-**Descrição**  
-O **Turn-Based Terminal RPG** é um projeto de **RPG baseado em turnos**, desenvolvido em **TypeScript**, que oferece uma experiência de jogo exclusivamente no terminal. O jogador tem a oportunidade de escolher uma classe de personagem e participar de confrontos estratégicos por turnos, até que um único jogador seja declarado vitorioso.
+**Description**  
+This is a **turn-based RPG** project, developed in **TypeScript**, that provides a gameplay experience exclusively in the terminal. The player has the opportunity to choose a character class and engage in strategic turn-based battles until a single player is declared the winner.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **TypeScript**: Linguagem utilizada para o desenvolvimento do jogo.
-- **Node.js**: Ambiente de execução JavaScript/TypeScript no terminal.
-- **Conceitos de POO**: Encapsulamento, herança, polimorfismo, etc.
+- **TypeScript**: Programming language used for game development.  
+- **Node.js**: JavaScript/TypeScript runtime environment for the terminal.  
+- **OOP Concepts**: Encapsulation, inheritance, polymorphism, etc.
 
-## Funcionalidades
+##  Features
 
-- **Escolha de Classe de Personagem**: O jogador pode escolher uma entre várias classes de personagens. Cada classe tem habilidades únicas.
-- **Sistema de Combate por Turnos**: O jogo segue o modelo clássico de combate por turnos, onde cada personagem e inimigo fazem movimentos em sequência.
-- **POO no Jogo**: O jogo foi projetado utilizando os princípios de POO:
-  - **Encapsulamento**: Atributos e métodos de cada personagem são encapsulados em suas respectivas classes.
-  - **Herança**: Classes de personagens herdam comportamentos de classes base, permitindo maior reutilização de código.
-  - **Polimorfismo**: Métodos de combate podem ser polimórficos, com diferentes comportamentos dependendo da classe de personagem.
-- **Interatividade no Terminal**: O jogo é jogado inteiramente no terminal, com opções para selecionar ações, visualizar informações dos personagens e inimigos, e acompanhar o andamento do combate.
+- **Character Class Selection**: The player can choose from a variety of character classes. Each class has unique abilities.
+- **Turn-based Combat System**: The game follows the classic turn-based combat model, where each character and enemy take turns making moves.
+- **OOP in the Game**: The game was designed using OOP principles:
+  - **Encapsulation**: Attributes and methods of each character are encapsulated within their respective classes.
+  - **Inheritance**: Character classes inherit behaviors from base classes, allowing for better code reuse.
+  - **Polymorphism**: Combat methods can be polymorphic, with different behaviors depending on the character class.
+- **Terminal Interactivity**: The game is played entirely in the terminal, with options to select actions, view information about characters and enemies, and track the progress of the combat.
